@@ -1,0 +1,20 @@
+@media (max-width: 874px) {
+
+
+
+
+.middle_card_title {
+  color: black;
+  font-weight: 700;
+  font-size: 7px;
+}
+.middle_card_text {
+  color: #555f62;
+  font-size: 7px;
+}
+body{
+width: 150%;
+
+}
+
+}
